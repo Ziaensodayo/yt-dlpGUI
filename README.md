@@ -15,4 +15,8 @@ yt-dlpにGUIを付けただけ
 ## ダウンロードできない場合
 以下を試してください。
 - yt-dlpを更新する (.\yt-dlp -Uで更新できます)
-- pythonがインストールされているか確認する。 (python -vで確認できます。)
+- pythonがインストールされているか確認する。 (python -vで確認できます。)  
+## 2023年3月13日追記  
+同梱しているyt-dlpのバージョンが古いため
+https://github.com/Ziaensodayo/yt-dlpGUI/releases/download/updater/yt-dlp_update.bat
+をダウンロード、yt-dlpGUIが入ってるフォルダに移動し実行してください。
